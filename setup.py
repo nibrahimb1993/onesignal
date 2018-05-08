@@ -6,6 +6,7 @@ def readme():
     with open('README.rst') as f:
         return f.read()
 
+
 setup(
     name='onesignal',
     packages=find_packages(exclude=['tests*']),

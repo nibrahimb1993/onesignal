@@ -47,7 +47,7 @@ class OneSignal(object):
         """
         self.app_id = app_id
         self.user_auth_key = user_auth_key
-        assert isinstance(version, basestring), 'version is not valid'
+        assert isinstance(version, "".__class__), 'version is not valid'
         self.api_url = BASE_URL + version
 
     def get_headers(self):
