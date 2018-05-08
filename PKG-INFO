@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: onesignal
-Version: 0.1.3
+Version: 0.1.4
 Summary: A Python wrapper for OneSignal API (http://onesignal.com)
 Home-page: https://github.com/gettalent/one-signal-python-sdk
 Author: Waqas Younas, Zohaib Ijaz, Ismael de Esteban
